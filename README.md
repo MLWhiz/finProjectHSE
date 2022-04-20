@@ -5,7 +5,7 @@ The final output would look like:
 ![](final_output.png)
 
 The final design looks like:
-![](design.jpg)
+![](design.png)
 
 # Dataset and Model:
 We use a Pytorch pre-trained fasterrcnn_resnet50_fpn detection model from the torchvision.models for object detection, which is trained on the COCO dataset. 
