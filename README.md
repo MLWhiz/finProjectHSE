@@ -1,10 +1,13 @@
 
 # Project Description:
 In this project we will create a simple object detection model and deploy it using FastAPI, Docker and Streamlit. 
+
 The final output would look like:
+
 ![](final_output.png)
 
 The final design looks like:
+
 ![](design.png)
 
 # Dataset and Model:
